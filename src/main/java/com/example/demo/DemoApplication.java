@@ -11,6 +11,10 @@ public class DemoApplication {
 
         System.out.println("привет");
 
+        System.out.println("branch1-commit1");
+        System.out.println("branch1-commit1");
+        System.out.println("branch1-commit1");
+
     }
 
 
