@@ -10,6 +10,10 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
 
         System.out.println("привет");
+
+        System.out.println("branch3-commit1");
+        System.out.println("branch3-commit1");
+        System.out.println("branch3-commit1");
     }
 
 
