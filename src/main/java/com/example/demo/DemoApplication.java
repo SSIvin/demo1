@@ -16,6 +16,8 @@ public class DemoApplication {
 
         System.out.println("master-commit2");
 
+        System.out.println("master-commit3");
+
 
     }
 
