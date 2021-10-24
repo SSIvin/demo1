@@ -18,6 +18,8 @@ public class DemoApplication {
         System.out.println("branch1-commit2");
         System.out.println("branch1-commit2");
 
+        System.out.println("branch1-commit3");
+
     }
 
 
